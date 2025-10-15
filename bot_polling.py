@@ -18,8 +18,8 @@ if not TOKEN:
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Main formatted text
     message_text = (
-        "➡️ Mega : https://direct-link.net/1378706/sWGUYKEX4TRZ\n\n"
-        "➡️ Decryption Key : zu_4MYhVAtHfQ2n2FcOEiA\n\n"
+        "➡️ Mega : te1egram.me/megafolder\n\n"
+        "➡️ Key : zu_4MYhVAtHfQ2n2FcOEiA\n\n"
         "Share the group 3 times to unlock your group"
     )
 
