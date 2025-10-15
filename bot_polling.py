@@ -18,16 +18,15 @@ if not TOKEN:
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Main formatted text
     message_text = (
-        "➡️ Code : https://link-center.net/1227837/how-to-unlock-full-access5\n\n"
-        "➡️ Mega : https://mega.nz/folder/xNDPjxAQR\n\n"
-        "Share the group 3 times to unlock all the special content 🤫"
+        "➡️ Mega : https://direct-link.net/1378706/sWGUYKEX4TRZ\n\n"
+        "➡️ Decryption Key : zu_4MYhVAtHfQ2n2FcOEiA\n\n"
+        "Share the group 3 times to unlock your group"
     )
 
     # Inline buttons (under the text)
     keyboard = [
-        [InlineKeyboardButton("Group To Unlock 🔒", url="https://t.me/recap343bot")],
-        [InlineKeyboardButton("Free Extracts 😊", url="https://mega.nz/folder/xNDPjxAQR")],
-        [InlineKeyboardButton("10 Free Gifs 🎁", url="https://link-center.net/1227837/how-to-unlock-full-access5")],
+        [InlineKeyboardButton("Group To Unlock 🔒", url="https://te1egram.me/+1aBvGqO9TyYzMWQy")],
+        [InlineKeyboardButton("Free Extracts 😊", url="te1egram.me/freeextracts")],
     ]
     inline_markup = InlineKeyboardMarkup(keyboard)
 
