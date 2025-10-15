@@ -25,8 +25,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     # Inline buttons (under the text)
     keyboard = [
-        [InlineKeyboardButton("Group To Unlock 🔒", url="https://te1egram.me/+1aBvGqO9TyYzMWQy")],
-        [InlineKeyboardButton("Free Extracts 😊", url="te1egram.me/freeextracts")],
+        [InlineKeyboardButton("Groups To Unlock 🔒", url="https://te1egram.me/+1aBvGqO9TyYzMWQy")],
+        [InlineKeyboardButton("Previews", url="te1egram.me/freeextracts")],
     ]
     inline_markup = InlineKeyboardMarkup(keyboard)
 
